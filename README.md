@@ -7,6 +7,9 @@ Please install nodejs and navigate to the repository and run the following scrip
 # Running the application
 Please use `npm start or yarn start` to start the application
 
+# Live Demo
+for a live demo of the app or in case you're unable to run the application please visit `https://simplecaculator-41c9f.web.app/`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
