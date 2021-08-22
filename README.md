@@ -1,3 +1,12 @@
+# Expression Evaluator
+This application utilizes mathjs package to evaluate expressions, since there was no requirement to create a parser or expression tree generator.
+
+# Installing dependencies
+Please install nodejs and navigate to the repository and run the following script `npm install or yarn`
+
+# Running the application
+Please use `npm start or yarn start` to start the application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
